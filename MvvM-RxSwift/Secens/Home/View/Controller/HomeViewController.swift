@@ -49,7 +49,7 @@ class HomeViewController: UIViewController , UITableViewDelegate{
     }
     
     func setupTableHidden() {
-        
+        //Refactor
         newsViewModel.isTableHiddenObservable.subscribe(onNext: { (isHidden) in
             
             if isHidden {
