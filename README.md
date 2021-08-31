@@ -1,7 +1,7 @@
 # News_App
  Basic Example for using MVVM and RXSwift
 
-**Feature:
+*Feature:
 
 - apply MVVM and RxSwift🔥
 - use app coordinator🛠
